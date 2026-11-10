@@ -1,5 +1,4 @@
 # Laboratorio-4.-Polimorfismo Ricardo Sandoval, 26353
-# Laboratorio 4 – Polimorfismo
 ## ArenaGT
 
 ### Descripción
